@@ -25,3 +25,8 @@ dist-ssr
 
 # Local PWA dist folder
 dev-dist
+
+# Project specific
+screenshots/
+example-import.json
+.npmrc
