@@ -19,6 +19,8 @@ function App() {
   const { user, setUser } = useContext(UserContext);
   const systemTheme = useSystemTheme();
 
+
+  
   // Initialize user properties if they are undefined
   // this allows to add new properties to the user object without error
   useEffect(() => {
